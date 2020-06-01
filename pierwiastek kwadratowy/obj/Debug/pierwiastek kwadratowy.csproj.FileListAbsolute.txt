@@ -1,0 +1,7 @@
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\bin\Debug\pierwiastek kwadratowy.exe.config
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\bin\Debug\pierwiastek kwadratowy.exe
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\bin\Debug\pierwiastek kwadratowy.pdb
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\obj\Debug\pierwiastek kwadratowy.csprojAssemblyReference.cache
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\obj\Debug\pierwiastek kwadratowy.csproj.CoreCompileInputs.cache
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\obj\Debug\pierwiastek kwadratowy.exe
+C:\Users\ola\Desktop\korki c#\pierwiastek kwadratowy\pierwiastek kwadratowy\obj\Debug\pierwiastek kwadratowy.pdb
