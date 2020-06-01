@@ -1,0 +1,1 @@
+# rownianie-kwadratowe
